@@ -1,0 +1,114 @@
+
+a {
+  color: #2d72c2;
+  font-family: Poppins;
+  }
+#navigation {
+  display: flex;
+  font-family: "Poppins", Times, serif;
+  font-size: 20px;
+  width: 1440px;
+  height: 202px;
+  padding: 
+  background-color: #ffffff;
+  justify-content: space-between;
+  align-items: baseline;
+}
+#heroe {
+  display: flex;
+  width: 1440px;
+  height: 757px;
+  background-color: #FBD148;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+#Hero {
+  display: flex;
+  width: 845px;
+  height: 757px;
+  justify-content: flex-end;
+  align-items: 
+}
+#Hero-text {
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  height: 757px;
+  background-color: #FBD148;
+  justify-content: space-between;
+  align-items: center;
+}
+#Find-match {
+  display: flex;
+  width: 539px;
+  height: 360px;
+  padding: 10px;
+  font-family: "Poppins", Times, serif;
+  font-size: 40px;
+  color: #2d72c2;
+  font-weight: bold;
+  justify-content: center;
+  
+}
+#save-lives {
+  display: flex;
+  width: 539px;
+  height: 360px;
+  padding: 10px;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: "Poppins", Times, serif;
+  font-size: 12px;
+}
+#Serving-bar {
+  display: flex;
+  width: 1560px;
+  height: 89px;
+  background-color: #294f6b; 
+  align-items: flex-start;
+}
+#serving-text {
+  align-items: flex-end;
+  width: 1560px;
+  height: 89px;
+  font-family: "Poppins", Times, serif;
+  font-size: 25px;
+  color: #ffffff;
+  width: 600px;
+  height: 89px;
+}
+#mission {
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  height: 330px;
+  background-color: #ffffff;
+  justify-content: space-between;
+  align-items: center;
+}
+#our-mission {
+  display: inline-flex;
+  font-family: "Poppins", Times, serif;
+  font-size: 30px;
+  color: #000000;
+  font-weight: bold;
+  width: 240px;
+  height: 63px;
+  
+}
+#To-balance {
+  display: inline-flex;
+  font-family: "Poppins", Times, serif;
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+  width: 1199px;
+  height: 170px;
+  
+}
+#Icons {
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  height: 150px;
+}
